@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1659369840480" clover="3.2.0">
+  <project timestamp="1659369840480" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="33" coveredelements="33" complexity="0" loc="26" ncloc="26" packages="1" files="1" classes="1"/>
+    <file name="validator.js" path="/Users/marlene/Laboratoria/card-validation/CDMX013-card-validation/src/validator.js">
+      <metrics statements="26" coveredstatements="26" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="16" count="16" type="stmt"/>
+      <line num="18" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="8" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="26" count="16" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="31" count="18" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="31" type="stmt"/>
+      <line num="42" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="52" count="3" type="stmt"/>
+      <line num="53" count="3" type="stmt"/>
+      <line num="54" count="3" type="stmt"/>
+      <line num="55" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
