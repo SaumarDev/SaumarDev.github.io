@@ -1,3 +1,6 @@
 [submodule "CDMX013-data-lovers"]
 	path = CDMX013-data-lovers
 	url = https://github.com/SaumarDev/CDMX013-data-lovers.git
+[submodule "ghibliscatalog"]
+	path = ghibliscatalog
+	url = https://github.com/SaumarDev/CDMX013-data-lovers.git
