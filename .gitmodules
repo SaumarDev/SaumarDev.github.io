@@ -4,3 +4,6 @@
 [submodule "ghibliscatalog"]
 	path = ghibliscatalog
 	url = https://github.com/SaumarDev/CDMX013-data-lovers.git
+[submodule "womenintech"]
+	path = womenintech
+	url = https://github.com/SaumarDev/CDMX013-social-network.git
